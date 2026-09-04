@@ -1,3 +1,6 @@
 # myrepo
 Repository for testing my Git/GitHub setup
-This is a line from RStudioA new line I wrote on my local computer
+A line I wrote on my local computer
+This is a line from RStudio 
+A new line I wrote on my local computer
+This is a new line from RStudio
